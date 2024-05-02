@@ -19,4 +19,5 @@ Here you can find projects that I developed.
 
 ## Contact me
 Linkedln -> [click here](https://www.linkedin.com/in/ppjq13/)
+
 email -> pepejq.13@gmail.com
