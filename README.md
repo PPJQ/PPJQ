@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋, my name is Pepe Jiménez
+### **Data Analyst Prospect**
 
-<!--
-**PPJQ/PPJQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy learning new things and expanding my knowledge, I have great agility in mathematics, logic, technology and creativity. I love programming and solving common problems by automating processes. 
 
-Here are some ideas to get you started:
+I recently attended a technology bootcamp at TripleTen focused on data analytics, where I was able to put my Python and SQL skills into practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you can find projects that I developed.
+
+## Skills
+
+* Python
+* Pandas
+* Numpy
+* MatPlotLib
+* Seaborn
+* SQL
+* Linux
+
+## Contact me
+Linkedln -> [click here](https://www.linkedin.com/in/ppjq13/)
+email -> pepejq.13@gmail.com
