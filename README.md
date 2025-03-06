@@ -28,7 +28,7 @@ Here you can find projects that I developed.
 ## 📚 Languages-Tools 🔧
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,github,linux,notion,vscode,excel"/>
+  <img src="https://skillicons.dev/icons?i=py,postgres,github,linux,notion,vscode,anaconda"/>
 </div>
 
 ## 🔥 Stats 🔥
